@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="迪米特法则.Teacher">
+    <Position X="3" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GroupLeader" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="迪米特法则.Girl">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Girl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="迪米特法则.GroupLeader">
+    <Position X="3" Y="4" Width="3.25" />
+    <AssociationLine Name="Girl" Type="迪米特法则.Girl" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="4.879" />
+        <Point X="6.625" Y="4.879" />
+        <Point X="6.625" Y="5.007" />
+        <Point X="8.886" Y="5.007" />
+        <Point X="8.886" Y="2.173" />
+        <Point X="10" Y="2.173" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>GroupLeader.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Girl" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

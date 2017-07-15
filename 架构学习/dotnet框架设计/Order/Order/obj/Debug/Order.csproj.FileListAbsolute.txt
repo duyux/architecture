@@ -1,0 +1,4 @@
+E:\学习\src\架构学习\dotnet框架设计\Order\Order\bin\Debug\Order.exe
+E:\学习\src\架构学习\dotnet框架设计\Order\Order\bin\Debug\Order.pdb
+E:\学习\src\架构学习\dotnet框架设计\Order\Order\obj\Debug\Order.exe
+E:\学习\src\架构学习\dotnet框架设计\Order\Order\obj\Debug\Order.pdb

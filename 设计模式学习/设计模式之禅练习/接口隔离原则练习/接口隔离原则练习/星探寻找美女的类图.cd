@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="接口隔离原则练习.PettyGirl">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAIAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>PettyGirl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="接口隔离原则练习.AbstractSearcher">
+    <Position X="2" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAIAAAABAAAAAAACAA=</HashCode>
+      <FileName>AbstractSearcher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IGoodbodyPettyGirl" />
+      <Property Name="IGreatTemperamentGirl" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="接口隔离原则练习.Searcher">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Searcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="接口隔离原则练习.IGoodbodyPettyGirl">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>IPettyGirl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="接口隔离原则练习.IGreatTemperamentGirl">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGreatTemperamentGirl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+F:\丽正相关\学习\src\设计模式学习\简单工厂模式\计算器\计算器\bin\Debug\计算器.exe
+F:\丽正相关\学习\src\设计模式学习\简单工厂模式\计算器\计算器\bin\Debug\计算器.pdb
+F:\丽正相关\学习\src\设计模式学习\简单工厂模式\计算器\计算器\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\丽正相关\学习\src\设计模式学习\简单工厂模式\计算器\计算器\obj\x86\Debug\计算器.exe
+F:\丽正相关\学习\src\设计模式学习\简单工厂模式\计算器\计算器\obj\x86\Debug\计算器.pdb

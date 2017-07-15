@@ -1,0 +1,5 @@
+F:\学习\src\设计模式学习\ASPPatterns.Chap2.Service\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.csprojResolveAssemblyReference.cache
+F:\学习\src\设计模式学习\ASPPatterns.Chap2.Service\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.dll
+F:\学习\src\设计模式学习\ASPPatterns.Chap2.Service\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.pdb
+F:\学习\src\设计模式学习\ASPPatterns.Chap2.Service\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.dll
+F:\学习\src\设计模式学习\ASPPatterns.Chap2.Service\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.pdb
